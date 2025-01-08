@@ -6,3 +6,6 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 openproject/openproject:15
+redis:alpine
+mariadb:10.7.3
+jgraph/drawio:24.7.17
