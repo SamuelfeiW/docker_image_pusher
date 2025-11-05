@@ -6,4 +6,6 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 #byaidu/pdf2zh
-hreatbook/hfish-server
+threatbook/hfish-server
+chinayin/hfish:2.6-client
+chinayin/hfish:2.6
