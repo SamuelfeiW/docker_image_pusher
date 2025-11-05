@@ -5,4 +5,5 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-byaidu/pdf2zh
+#byaidu/pdf2zh
+hreatbook/hfish-server
