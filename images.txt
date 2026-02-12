@@ -6,6 +6,7 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 #byaidu/pdf2zh
-threatbook/hfish-server
-chinayin/hfish:2.6-client
-chinayin/hfish:2.6
+#threatbook/hfish-server
+#chinayin/hfish:2.6-client
+#chinayin/hfish:2.6
+linuxserver/calibre-web
