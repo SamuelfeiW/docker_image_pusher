@@ -10,5 +10,7 @@
 #chinayin/hfish:2.6-client
 #chinayin/hfish:2.6
 #linuxserver/calibre-web
-sonarqube:community
-postgres:17
+#sonarqube:community
+#postgres:17
+chromadb/chroma
+mcp/chroma
