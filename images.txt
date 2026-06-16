@@ -14,3 +14,4 @@
 #postgres:17
 chromadb/chroma
 mcp/chroma
+milvusdb/milvus
